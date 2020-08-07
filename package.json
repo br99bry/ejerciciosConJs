@@ -1,0 +1,17 @@
+{
+  "name": "Ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio1.js",
+  "scripts": {
+    "ejercicio20": "node ejercicio20.js",
+    "ejercicio21": "node ejercicio21.js",
+    "ejercicio22": "node ejercicio22.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
